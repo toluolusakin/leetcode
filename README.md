@@ -14,4 +14,4 @@ If you are new to leetcode, you can get started at [leetcode.com](https://www.le
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1207|[First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Java](./java/firstBadVersion/FirstBadVersion.java)|Easy|
+|278|[First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Java](./java/firstBadVersion/FirstBadVersion.java)|Easy|
