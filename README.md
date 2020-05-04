@@ -16,4 +16,6 @@ If you are new to leetcode, you can get started at [leetcode.com](https://www.le
 |---| ----- | -------- | ---------- |
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Java](./java/FirstBadVersion.java)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Java](./java/JewelsAndStones.java)|Easy|
+|560|[SubArray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Java](./java/SubArraySum.java)|Medium|
+|383|[Ransom Note](https://leetcode.com/problems/ransom-note/) | [Java](./java/RansomeNote.java)|Medium|
 
