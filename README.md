@@ -15,3 +15,5 @@ If you are new to leetcode, you can get started at [leetcode.com](https://www.le
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/) | [Java]('./java/FirstBadVersion/Solution.java')|Easy|
+|771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [Java]('./java/FirstBadVersion/Solution.java')|Easy|
+

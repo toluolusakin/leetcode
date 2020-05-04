@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - JewelsAndStones",
+            "request": "launch",
+            "mainClass": "java.JewelsAndStones",
+            "projectName": "leetcode_76f218bf"
+        },
+        {
+            "type": "java",
             "name": "Debug (Launch) - Current File",
             "request": "launch",
             "mainClass": "${file}"
